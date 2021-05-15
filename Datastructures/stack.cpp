@@ -18,7 +18,6 @@ public:
     bool push(int value);
     int pop();
     int peek();
-    int length();
     bool isEmpty();
     int len();
 };
